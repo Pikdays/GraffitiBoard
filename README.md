@@ -7,6 +7,15 @@
 此项目来源于新东方教育科技集团优播课APP教师端手绘功能。
 感谢GitHub上的`Graffiti`,`Draw`以及相关绘画的开源作者。
 
+### 依赖库
+
+```pod
+
+pod "MJExtension"
+pod "ZYQAssetPickerController"
+
+```
+
 ### 使用
 
 ```objc
