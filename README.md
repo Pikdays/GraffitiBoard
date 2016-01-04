@@ -17,15 +17,12 @@
 
 ### 截图
 
-![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0511.PNG)
+![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0511.PNG?imageView2/2/w/200)
+![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0517.PNG?imageView2/2/w/200)
 
-![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0517.PNG)
+![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0515.PNG?imageView2/2/w/200)
+![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0516.PNG?imageView2/2/w/200)
 
-![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0515.PNG)
-
-![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0516.PNG)
-
-![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0512.PNG)
-
-![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0514.PNG)
+![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0512.PNG?imageView2/2/w/200)
+![image](http://7xprgz.com1.z0.glb.clouddn.com/JessicaIMG_0514.PNG?imageView2/2/w/200)
 
